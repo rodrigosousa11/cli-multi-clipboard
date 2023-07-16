@@ -1,0 +1,4 @@
+{
+	"test": "multi-clipboard",
+	"test2": "python3 main.py list"
+}
